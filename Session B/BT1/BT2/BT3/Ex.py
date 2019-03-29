@@ -1,0 +1,1 @@
+print("THPT NTMK")
